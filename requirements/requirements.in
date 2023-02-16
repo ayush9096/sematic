@@ -52,6 +52,7 @@ statsmodels
 scikit-learn
 numpy
 xgboost
+transformers
 
 # Types
 ## Snowflake
